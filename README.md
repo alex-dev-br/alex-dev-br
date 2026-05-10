@@ -24,7 +24,7 @@ Economista de formação com mais de seis anos no IBGE, onde desenvolvo automaç
 
 ## 📊 GitHub Stats
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-dev-br&show_icons=true&theme=dracula&count_private=true)
+![Alexandre GitHub stats](./profile/stats.svg)
 
 ---
 
