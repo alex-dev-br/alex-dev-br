@@ -1,6 +1,6 @@
 ### Olá, sou Alexandre Belisário! 👋
 
-Economista de formação com mais de seis anos no IBGE, onde desenvolvo automações em SAS e Python para análise e validação de dados econômicos. Em transição para desenvolvimento backend Java — curso pós-graduação em Arquitetura e Desenvolvimento Java pela FIAP, onde venho construindo projetos com Spring Boot, microsserviços, mensageria e padrões como Clean Architecture, Hexagonal.
+Economista de formação com mais de sete anos no IBGE, onde desenvolvo automações em SAS e Python para análise e validação de dados econômicos. Em transição para desenvolvimento backend Java — curso pós-graduação em Arquitetura e Desenvolvimento Java pela FIAP, onde venho construindo projetos com Spring Boot, microsserviços, mensageria e padrões como Clean Architecture, Hexagonal.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-dev-br)
 
